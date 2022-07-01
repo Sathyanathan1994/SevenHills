@@ -1,0 +1,16 @@
+#carouselExampleSlidesOnly .carousel-item img{
+    object-fit: cover;
+    object-position: center;
+    overflow: hidden;
+    height: 85vh;
+    width: 70%;
+    border-radius: 1%;
+    -webkit-border-radius: 1%;
+    -moz-border-radius: 1%;
+    -ms-border-radius: 1%;
+    -o-border-radius: 1%;
+}
+
+.carousel-caption{
+    color: aqua;
+}

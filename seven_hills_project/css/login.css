@@ -1,0 +1,15 @@
+.mb-3{
+    width: 50%;
+    top: 50%;
+    left: 50%;
+    transition: transform(-50%, -50%);
+    -webkit-transition: transform(-50%, -50%);
+    -moz-transition: transform(-50%, -50%);
+    -ms-transition: transform(-50%, -50%);
+    -o-transition: transform(-50%, -50%);
+}
+
+form{
+    margin-top: 100px;
+    margin-left: 400px;
+}
